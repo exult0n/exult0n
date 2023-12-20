@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🐛 I’m currently studying for the CBBH course from HTB. Check it out!
+https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter
